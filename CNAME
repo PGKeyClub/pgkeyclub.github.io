@@ -1,4 +1,1 @@
-dig pleasantgrovekeyclub.org +nostats +nocomments +nocmd
-;pleasantgrovekeyclub.org
-pleasantgrovekeyclub.org.   73  IN  A 192.30.252.153
-pleasantgrovekeyclub.org.   73  IN  A 192.30.252.154
+pleasantgrovekeyclub.org
