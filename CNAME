@@ -1,5 +1,4 @@
-$ dig www.pleasantgrovekeyclub.org +nostats +nocomments +nocmd
-# ;www.pleasantgrovekeyclub.org.                     IN      A
-# www.pleasantgrovekeyclub.org.              3592    IN      CNAME   pgkeyclub.github.io.
-# pgkeyclub.github.io.           43192   IN      CNAME   github.map.fastly.net.
-# github.map.fastly.net.        22      IN      A       50.63.202.63
+dig pleasantgrovekeyclub.org +nostats +nocomments +nocmd
+;pleasantgrovekeyclub.org
+pleasantgrovekeyclub.org.   73  IN  A 192.30.252.153
+pleasantgrovekeyclub.org.   73  IN  A 192.30.252.154
